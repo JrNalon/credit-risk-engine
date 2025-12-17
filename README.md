@@ -52,7 +52,7 @@ No laboratório, o Random Forest (0.746) superou o Gradient Boosted Trees (0.737
 * **Score > 0.6 (Alto Risco):** Negar crédito ou exigir Avalista (**NBA**).
 
 ### 💰 Resultado Financeiro
-> Em simulação com dados de teste, o modelo evitou **71.8%** das perdas potenciais com inadimplência comparado a um cenário sem crivo de risco.
+> Em simulação com dados de teste, o modelo evitou **74%** das perdas potenciais com inadimplência comparado a um cenário sem crivo de risco.
 
 ---
 
