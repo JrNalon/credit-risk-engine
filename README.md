@@ -61,6 +61,20 @@ A análise de Falsos Negativos revelou uma concentração de erros em **Jovens (
 * **Ação Futura:** Implementar política de crédito híbrida com dados de Open Finance para este público, compensando a falta de histórico bancário.
 
 ---
+## Destaques de Engenharia de Dados
+
+Este projeto também demonstra conceitos importantes de Engenharia de Dados, incluindo:
+
+- Arquitetura Lakehouse utilizando abordagem Medallion
+- Camadas Bronze, Silver e Gold
+- Ingestão e transformação de dados com PySpark
+- Tabelas Delta Lake
+- Separação entre dados brutos, refinados e analíticos
+- Camada analítica preparada para Machine Learning e insights de negócio
+- Organização modular dos notebooks
+- Versionamento com GitHub
+
+---
 
 ## ⚙️ Engenharia & Reprodução
 Este projeto foi desenvolvido utilizando boas práticas de **CI/CD** e versionamento:
